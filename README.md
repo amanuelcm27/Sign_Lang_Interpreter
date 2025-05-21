@@ -55,7 +55,7 @@ This project is a deep learning-based system that recognizes American Sign Langu
 
 ## 🚀 How to Run
 
-1. Train the model (or load the saved one)
+1.  load the saved model (asl_model.keras)
 2. Run the real-time prediction script with your webcam
 3. Show ASL signs to the camera and see the predictions live!
 
